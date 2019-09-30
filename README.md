@@ -1,2 +1,2 @@
-# eriksasltest18
-Testing Kafka SASL (Flink 1.8)
+# FlinkReadKafkaSASL
+Java example to read from Kafka using Flink over SASL/SSL.
